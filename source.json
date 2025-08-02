@@ -1,33 +1,39 @@
+"localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.",
+"iconURL": "https://github.com/jonathanjdr/YTLite/blob/main/Resources/icon.png?raw=true",
+"tintColor": "#fc0434",
+"category": "entertainment",
+"screenshots": [
+"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr1.jpg?raw=true",
+"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr2.jpg?raw=true",
+"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr3.jpg?raw=true",
+"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr4.jpg?raw=true",
+"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr5.jpg?raw=true",
+"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr6.jpg?raw=true",
+"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr7.jpg?raw=true",
+"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr8.jpg?raw=true",
+"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr9.jpg?raw=true"
+],
+"versions": [
 {
-  "name": "Jon's Source",
-  "subtitle": "A source for all of my apps",
-  "description": "Welcome to my source!.",
-  "iconURL": "https://avatars.githubusercontent.com/u/87248756",
-  "headerURL": "https://avatars.githubusercontent.com/u/87248756g",
-  "website": "https://example.com",
-  "patreonURL": "https://patreon.com/"
-  "tintColor": "#F54F32",
-  "featuredApps": [],
-  "apps": [
-    {
-        "name": "My Example App",
-        "bundleIdentifier": "com.example.myapp",
-        "marketplaceID": "12345678",
-        "developerName": "Example Developer",
-        "subtitle": "An awesome app.",
-        "localizedDescription": "This is an awesome app only available on AltStore.",
-        "iconURL": "https://example.com/myapp_icon.png",
-        "tintColor": "#F54F32",
-        "category": "utilities",
-        "screenshots": [
-            "https://example.com/myapp_screenshot1.png",
-            "https://example.com/myapp_screenshot2.png",
-            "https://example.com/myapp_screenshot3.png"
-        ],
-        "versions": [],
-        "appPermissions": {},
-        "patreon": {},
-    },
-  ],
-  "news": [],
+"downloadURL": "https://file.jonjdr.me:3923/public/ipa/unsigned/YouTubePlus_5.2b2.ipa",
+"size": 123700000,
+"version": "20.29.3",
+"buildVersion": null,
+"date": "2025-08-02T08:28:00-04:00",
+"localizedDescription": null,
+"minOSVersion": null
+}
+],
+"appPermissions": {
+"entitlements": [
+],
+"privacy": {
+}
+},
+"patreon": {
+}
+}
+],
+"news": [
+]
 }
