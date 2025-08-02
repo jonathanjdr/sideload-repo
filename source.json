@@ -20,6 +20,23 @@
           "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options."
         },
       ] 
+    },
+    "apps": [
+    {
+      "name": "Ignited",
+      "developerName": "litritt",
+      "bundleIdentifier": "com.litritt.ignited",
+      "localizedDescription": "Ignited is a multi-core emulator front-end for iOS devices.",
+      "iconURL": "https://file.jonjdr.me:3923/public/Screenshot%202025-08-02%20at%2004-54-37%20.png",
+      "versions": [
+        {
+          "version": "1.10",
+          "date": "2025-08-02T10:03:00Z",
+          "size": 63400000,
+          "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/versions/1.10/Ignited.ipa",
+          "localizedDescription": "Ignited is a multi-core emulator front-end for iOS devices."
+        },
+      ] 
     }
   ]
 }
