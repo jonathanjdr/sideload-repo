@@ -1,39 +1,51 @@
-"localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.",
-"iconURL": "https://github.com/jonathanjdr/YTLite/blob/main/Resources/icon.png?raw=true",
-"tintColor": "#fc0434",
-"category": "entertainment",
-"screenshots": [
-"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr1.jpg?raw=true",
-"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr2.jpg?raw=true",
-"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr3.jpg?raw=true",
-"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr4.jpg?raw=true",
-"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr5.jpg?raw=true",
-"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr6.jpg?raw=true",
-"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr7.jpg?raw=true",
-"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr8.jpg?raw=true",
-"https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr9.jpg?raw=true"
-],
-"versions": [
 {
-"downloadURL": "https://file.jonjdr.me:3923/public/ipa/unsigned/YouTubePlus_5.2b2.ipa",
-"size": 123700000,
-"version": "20.29.3",
-"buildVersion": null,
-"date": "2025-08-02T08:28:00-04:00",
-"localizedDescription": null,
-"minOSVersion": null
-}
-],
-"appPermissions": {
-"entitlements": [
-],
-"privacy": {
-}
-},
-"patreon": {
-}
-}
-],
-"news": [
-]
+  "name": "Jon's Source",
+  "subtitle": "A source for some cool apps.",
+  "description": "Welcome to my source! Here you'll find all of the apps.",
+  "iconURL": "https://avatars.githubusercontent.com/u/87248756",
+  "website": "https://github.com/",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "YTLite",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "marketplaceID": "",
+      "developerName": "dayanch96",
+      "subtitle": "",
+      "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.",
+      "iconURL": "https://github.com/jonathanjdr/YTLite/blob/main/Resources/icon.png?raw=true",
+      "tintColor": "#fc0434",
+      "category": "entertainment",
+      "screenshots": [
+        "https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr1.jpg?raw=true",
+        "https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr2.jpg?raw=true",
+        "https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr3.jpg?raw=true",
+        "https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr4.jpg?raw=true",
+        "https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr5.jpg?raw=true",
+        "https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr6.jpg?raw=true",
+        "https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr7.jpg?raw=true",
+        "https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr8.jpg?raw=true",
+        "https://github.com/jonathanjdr/YTLite/blob/main/Resources/scr9.jpg?raw=true"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://file.jonjdr.me:3923/public/ipa/unsigned/YouTubePlus_5.2b2.ipa",
+          "size": 123700000,
+          "version": "20.29.3",
+          "buildVersion": null,
+          "date": "2025-08-02T08:28:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
 }
