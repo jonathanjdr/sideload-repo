@@ -34,8 +34,8 @@
           "size": 63400000,
           "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/versions/1.10/Ignited.ipa",
           "localizedDescription": "Ignited is a multi-core emulator front-end for iOS devices."
-        },
+        }
       ] 
-    }
+    },
   ]
 }
